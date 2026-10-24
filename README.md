@@ -2,6 +2,9 @@
 
 > 整理时间：2026-10-24（当天）
 > 原则：只留今天还能领、或值得等的。第三方报道的数字一律标注，领取前以官网/控制台为准。
+>
+> 作者：**[@MicoinSmith](https://github.com/MicoinSmith)**
+> 仓库：**[MicoinSmith/1024-perks](https://github.com/MicoinSmith/1024-perks)**
 
 ---
 
@@ -250,3 +253,8 @@
 - CSDN 1024：https://1024.csdn.net/
 
 **免责**：所有数字均来自公开报道与社区帖子，平台政策随时调整。领取前请以官网、控制台或客户端实际显示为准；尤其注意「限量」「当日截止」「续费原价」这三类条款。
+
+---
+
+**本文仓库**：https://github.com/MicoinSmith/1024-perks
+**作者**：https://github.com/MicoinSmith
